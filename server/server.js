@@ -6,7 +6,8 @@ app.get('/api', (req, res) => {
     "users": [
       "userOne",
       "userTwo",
-      "userThree"
+      "userThree",
+      "userFour"
     ]
   })
 })
